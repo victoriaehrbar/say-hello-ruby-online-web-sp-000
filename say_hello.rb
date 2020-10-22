@@ -1,4 +1,4 @@
 def say_hello
   name = Gabriela
-  phrase = "Hello #{name} !"
+  phrase = "Hello #{name}!"
   puts phrase
